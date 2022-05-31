@@ -4,6 +4,8 @@
 <hr>
 <h2>Group: COM-18</h2>
 <hr>
+<h2>Link: https://indirow.github.io/DEFinal/</h2>
+<hr>
 <h3>Hello there! This is our final project for Digital Electronics course<br>
 In this project You can easily design and plan your logic gates circuits</h3><br>
 
